@@ -1,6 +1,6 @@
 # fullStack-todo-list :star2:
 
-### FTS-TASK10 - facilitating CRUD (Create, Read, Update, Delete) operations using Node.js and ReactJS
+### FTS-TASK11 - facilitating CRUD (Create, Read, Update, Delete) operations using Node.js and ReactJS
 
 ### :stars: Overview
 This repository creates a TODO List web application with various features to manage tasks efficiently. It implements a user-friendly interface that allows users to add, update, and remove TODO items. 
