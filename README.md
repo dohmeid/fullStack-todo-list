@@ -41,7 +41,7 @@ To run this application locally, follow these steps:
 1. Clone the repository -> **`git clone https://github.com/dohmeid/my-note-keeper.git`**
 2. Go to folder server -> **`cd server`**
 3. Make sure you have MongoDB installed and running locally.
-4. Start the server using: **`npm start`**
+4. Start the server using: **`node index.js`**
 5. Go to folder client  ->   **`cd client`**
 6. Start the development server using ->   **`npm start`**
 7. You can access the project by navigating to http://localhost:3000 in your web browser.
